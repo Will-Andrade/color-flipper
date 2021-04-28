@@ -18,7 +18,7 @@ This project was developed using the following technologies:
 
 And hosted using:
 
-**[Netlify](https://www.netlify.com/)**
+**- [Netlify](https://www.netlify.com/)**
 
 ## Getting Started
 
