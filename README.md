@@ -32,4 +32,4 @@ $ git clone https://github.com/Will-Andrade/color-flipper.git && cd color-flippe
 
 I made this project on my own to practice basic DOM Interactions and layout using JavaScript, HTML and CSS.
 
-<p align="center">Made with :heart: and Hard Work by <a href="https://github.com/Will-Andrade">Willian Andrade</a></p>
+<p align="center">Made with :heart: and Hard Work by <a href="https://github.com/Will-Andrade" target="_blank">Willian Andrade</a></p>
